@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋🏻 Hi there, I'm Chatree 👨🏽‍💻
 
-<!--
-**chatreejs/chatreejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧙🏻‍♀️ Personal Projects
 
-Here are some ideas to get you started:
+__Current__
+* __JavaScript Libraries:__ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+__Past__
+* __ROS__
+  * __Robot-Core:__ 🤖 [ros](https://github.com/chatreejs/assistiverobot-ros)
+  * __Frontend:__ 🌐 [web-app](https://github.com/chatreejs/assistiverobot-web-application)
+  * __Backend:__ ☁️ [web-service-v2](https://github.com/chatreejs/assistiverobot-web-service) | 🐍 [web-service-v1](https://github.com/chatreejs/assistiverobot-web-service-python)
