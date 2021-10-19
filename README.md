@@ -1,5 +1,7 @@
 ### 👋🏻 Hi there, I'm Chatree 👨🏽‍💻
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q76NB0C)
+
 🧙🏻‍♀️ Personal Projects
 
 __Current__
