@@ -5,7 +5,6 @@
 🧙🏻‍♀️ Personal Projects
 
 __Current__
-* __Docker:__ 🌐 [docker-angular-demo](https://github.com/chatreejs/docker-angular-demo) | 🤵🏻‍♂️ [jenkins](https://github.com/chatreejs/docker-jenkins) 
 * __RESTFul-API:__ ☁️ [nestjs-restful-api](https://github.com/chatreejs/nestjs-restful-api) | ☁️ [dotnet-restful-api](https://github.com/chatreejs/dotnet-restful-api) | 🐍 [python-flask-api](https://github.com/chatreejs/python-flask-api)
 * __Computer Science__
   * __Numerical Analysis:__ 👩🏻‍🔬 [py4numerical-analysis](https://github.com/chatreejs/py4numerical-analysis)
