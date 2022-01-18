@@ -5,7 +5,7 @@
 🧙🏻‍♀️ Personal Projects
 
 __Current__
-* __RESTFul-API:__ ☁️ [nestjs-restful-api](https://github.com/chatreejs/nestjs-restful-api) | ☁️ [dotnet-restful-api](https://github.com/chatreejs/dotnet-restful-api) | 🐍 [python-flask-api](https://github.com/chatreejs/python-flask-api)
+* __RESTFul-API:__ ☁️ [nestjs-restful-api](https://github.com/chatreejs/nestjs-restful-api)
 * __Computer Science__
   * __Numerical Analysis:__ 👩🏻‍🔬 [py4numerical-analysis](https://github.com/chatreejs/py4numerical-analysis)
   * __Computer Security:__ 🔐 [py4comsec](https://github.com/chatreejs/py4comsec)
