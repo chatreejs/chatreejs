@@ -14,20 +14,10 @@ I'm 25 years old Software Engineer from Thailand 🇹🇭
 
 ## Personal Projects
 
-I'm working on a smart home project that can integrate with smart farm solution
+I'm working on a Bill Please application
 
-### Stack
-<a href="https://github.com/chatreejs/smarthome">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chatreejs&repo=smarthome&theme=dracula" />
-</a>
-<a href="https://github.com/chatreejs/smarthome-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chatreejs&repo=smarthome-api&theme=dracula" />
-</a>
-<a href="https://github.com/chatreejs/smartfarm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chatreejs&repo=smartfarm&theme=dracula" />
-</a>
-<a href="https://github.com/chatreejs/weather-station">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chatreejs&repo=weather-station&theme=dracula" />
+<a href="https://github.com/chatreejs/check-bill-enhanced">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chatreejs&repo=check-bill-enhanced&theme=dracula" />
 </a>
 
 ## Graduation Project
