@@ -16,8 +16,8 @@ I'm 25 years old Software Engineer from Thailand 🇹🇭
 
 I'm working on a Bill Please application
 
-<a href="https://github.com/chatreejs/check-bill-enhanced">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chatreejs&repo=check-bill-enhanced&theme=dracula" />
+<a href="https://github.com/chatreejs/bill-please">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chatreejs&repo=bill-please&theme=dracula" />
 </a>
 
 ## Graduation Project
