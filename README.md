@@ -5,12 +5,14 @@ I'm 25 years old Software Engineer from Thailand 🇹🇭
 
 **About me**
 
-- 👨🏽‍💻 Senior GIS Application Developer at [GIS Company](https://www.giscompany.co.th/en/home-english/)
+- 👨🏽‍💻 Senior Application Engineer at [The Stock Exchange of Thailand](https://www.set.or.th/)
+- Experience in front-end and back-end application.
 - Experience in implementing DevSecOps concepts to teams
 - I'm currently studying GitOps concepts.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chatreejs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chatreejs's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatreejs&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 
 ## Personal Projects
 
