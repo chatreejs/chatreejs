@@ -1,4 +1,4 @@
-### 👋🏻 Hi there, I'm Chatree
+# 👋🏻 Hi there
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q76NB0C)
 
 I'm 26 years old Software Engineer from Thailand 🇹🇭
@@ -8,10 +8,9 @@ I'm 26 years old Software Engineer from Thailand 🇹🇭
 - 👨🏽‍💻 Senior Application Engineer at [The Stock Exchange of Thailand](https://www.set.or.th/)
 - Experience in front-end and back-end application.
 - Experience in implementing DevSecOps concepts to teams
-- I'm currently studying GitOps concepts.
+- I'm currently researching about distributed computing.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chatreejs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chatreejs's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatreejs&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,react,angular,spring,dotnet,nodejs,nestjs,cypress,mysql,mongo,postgres,prisma,kafka,jenkins,grafana,docker,kubernetes,aws,cloudflare)](https://skillicons.dev)
 
 ## Graduation Project
 
